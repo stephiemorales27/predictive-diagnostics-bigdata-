@@ -1,5 +1,6 @@
-# predictive-diagnostics-bigdata-
+# Big Data & Diagnostics and Predictability 
 A collection of applications developed during two courses, focused on Big Data, diagnostics, and predictive analytics. All projects are implemented in Python. 
+
 # Overview 
 This repository is a collection of case studies and applications developed as part of class projects in two courses.
 It focuses on Big Data, diagnostics, and predictive analytics, exploring different scenarios for data analysis.
